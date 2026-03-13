@@ -1,4 +1,4 @@
-# ZAI World Model 🌍🤖
+# ZAI World Data Model 🌍🤖
 ### Macro Market Prediction AI — Historical Data 1800s to Today
 
 ---
